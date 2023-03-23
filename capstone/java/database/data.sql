@@ -98,7 +98,6 @@ INSERT INTO class_info_student (class_id, student_id) VALUES (5, 1016);
 
 INSERT INTO parent_student (parent_id, student_id, relation) VALUES (1018, 1017, 'Father');
 INSERT INTO parent_student (parent_id, student_id, relation) VALUES (1019, 1017, 'Mother');
-INSERT INTO parent_student (parent_id, student_id, relation) VALUES (1020, 1008, 'Grandmother');
 INSERT INTO parent_student (parent_id, student_id, relation) VALUES (1020, 1013, 'Grandmother');
 INSERT INTO parent_student (parent_id, student_id, relation) VALUES (1021, 1010, 'Father');
 

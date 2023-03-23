@@ -19,10 +19,12 @@ p {
   align-items: center;
   justify-items: center;
   font-family: Arial, Helvetica, sans-serif;
-  color: rgb(216, 150, 69);
+  color: rgb(231, 128, 2);
+  font-weight: bold;
   max-width: 50%;
   padding-left: 500px;
   padding-bottom: 600px;
+  text-align: center;
 }
 .home-nav {
   display: grid;
